@@ -1,7 +1,6 @@
 PATH
   remote: .
   specs:
-    check_appointments (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -14,3 +13,6 @@ PLATFORMS
 DEPENDENCIES
   check_appointments!
   rake
+
+BUNDLED WITH
+   1.11.2
